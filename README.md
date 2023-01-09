@@ -1,8 +1,9 @@
 # BingoGame
 MOSAアーキテクト株式会社様 プログラミング課題
 
-## 動作環境
+## 開発環境
 windows11
+eclipse2022_12
 Java11
 
 ## 備考
